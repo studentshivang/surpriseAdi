@@ -330,7 +330,7 @@ div.container{
   text-align: center;
 }
 .icons .row1 span {
-  color: #e5e5e5;
+  color: red;
   text-shadow: 4px 4px 0 rgba(96, 125, 139, 0.4);
   font-size: 50px;
   display: inline-block;
